@@ -917,4 +917,16 @@ div.span5.contact-form.centered.animated.bounceIn {
     float: none;
 }
 
+.motto {
+    font-family: 'Courgette', serif;
+}
+
+.font-override {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-size: 20px;
+    line-height: 24px;
+}
 
